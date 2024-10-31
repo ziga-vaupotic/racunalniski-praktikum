@@ -31,3 +31,32 @@ code {
     font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace;
     color: #009966;
 }
+
+
+h1 {
+    color: #330066;
+}
+
+h2 {
+    margin-top: 2em;
+    padding-top: 0.5em;
+    border-top: 1px #AAAAAA solid;
+
+}
+
+#uvod {
+    padding: 2em;
+    background-color: rgb(51, 0, 102, 0.1);
+}
+
+.slika {
+    border: 1px red solid;
+    float: right;
+    margin-left: 2em
+}
+
+.slika img {
+    width: 100%;
+    height: auto;
+    
+}
