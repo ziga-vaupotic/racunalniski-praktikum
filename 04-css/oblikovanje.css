@@ -50,6 +50,7 @@ h2 {
 }
 
 .slika {
+    border-radius: 50%;
     border: 1px red solid;
     float: right;
     margin-left: 2em
@@ -59,4 +60,8 @@ h2 {
     width: 100%;
     height: auto;
     
+}
+
+.slika p:last-child {
+    margin: 0.8em;
 }
